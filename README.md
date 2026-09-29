@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Borja 👋
 
-<!--
-**BorjaLafuente/BorjaLafuente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst & Statistician (PhD in Statistics and Operations Research) with 13+ years of experience in data analysis, bibliometrics and institutional reporting.
 
-Here are some ideas to get you started:
+**What I do**
+- Build interactive dashboards (Shiny, Power BI) and automated reports (R Markdown / Quarto)
+- Statistical analysis and modelling, from data cleaning to insight
+- Data pipelines combining multiple sources (Web of Science, Scopus, OpenAlex, internal databases)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech stack:** R (tidyverse, ggplot2, Shiny) · Python (pandas, NumPy, scikit-learn) · SQL · Power BI · Git
+
+**Featured projects** → see pinned repositories below
+
+📫 [LinkedIn](https://www.linkedin.com/in/borjalafuenterego/) · 📍 Palma de Mallorca, Spain
