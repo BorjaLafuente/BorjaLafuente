@@ -9,6 +9,7 @@ Data Analyst & Statistician (PhD in Statistics and Operations Research) with 13+
 
 **Tech stack:** R (tidyverse, ggplot2, Shiny) · Python (pandas, NumPy, scikit-learn) · SQL · Power BI · Git
 
-**Featured projects** → see pinned repositories below
+**Featured projects**
+- [Exam Simulator](https://github.com/BorjaLafuente/shiny-exam-simulator): Shiny app for practising multiple-choice exams from any Excel question bank · [live demo](https://borjalafuente.shinyapps.io/shiny-exam-simulator/)
 
 📫 [LinkedIn](https://www.linkedin.com/in/borjalafuenterego/) · 📍 Palma de Mallorca, Spain
