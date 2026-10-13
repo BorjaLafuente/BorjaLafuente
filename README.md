@@ -10,8 +10,10 @@ Data Analyst & Statistician (PhD in Statistics and Operations Research) with 13+
 **Tech stack:** R (tidyverse, ggplot2, Shiny) · Python (pandas, NumPy, scikit-learn) · SQL · Power BI · Git
 
 **Featured projects**
-- [Exam Simulator](https://github.com/BorjaLafuente/shiny-exam-simulator): Shiny app for practising multiple-choice exams from any Excel question bank · [live demo](https://borjalafuente.shinyapps.io/shiny-exam-simulator/)
-
 - [Galician universities research output](https://github.com/BorjaLafuente/openalex-galician-universities): bibliometric analysis with OpenAlex — Python pipeline, SQL indicators and validation against the Leiden Ranking
+
+- [scimetr](https://rubenfcasal.github.io/scimetr/): R package on CRAN for bibliometric analysis of Web of Science data, co-developed with Rubén Fernández-Casal in weekly pair-programming sessions ([source code](https://github.com/rubenfcasal/scimetr))
+
+- [Exam Simulator](https://github.com/BorjaLafuente/shiny-exam-simulator): Shiny app for practising multiple-choice exams from any Excel question bank · [live demo](https://borjalafuente.shinyapps.io/shiny-exam-simulator/)
 
 📫 [LinkedIn](https://www.linkedin.com/in/borjalafuenterego/) · 📍 Palma de Mallorca, Spain
