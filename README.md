@@ -10,7 +10,9 @@ Data Analyst & Statistician (PhD in Statistics and Operations Research) with 13+
 **Tech stack:** R (tidyverse, ggplot2, Shiny) · Python (pandas, NumPy, scikit-learn) · SQL · Power BI · Git
 
 **Featured projects**
-- [Galician universities research output](https://github.com/BorjaLafuente/openalex-galician-universities): bibliometric analysis with OpenAlex — Python pipeline, SQL indicators and validation against the Leiden Ranking
+- [Galician research dashboard](https://github.com/BorjaLafuente/galician-research-dashboard) ([live app](https://borjalafuente.shinyapps.io/galician-research-dashboard/)): interactive R Shiny dashboard on research output, open access, impact and international collaboration of three Spanish universities
+
+- [Galician universities research output](https://github.com/BorjaLafuente/openalex-galician-universities): bibliometric analysis of three Spanish universities with OpenAlex — Python pipeline, SQL indicators and validation against the Leiden Ranking; feeds the dashboard above
 
 - [scimetr](https://rubenfcasal.github.io/scimetr/): R package on CRAN for bibliometric analysis of Web of Science data, co-developed with Rubén Fernández-Casal in weekly pair-programming sessions ([source code](https://github.com/rubenfcasal/scimetr))
 
